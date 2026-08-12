@@ -3,7 +3,10 @@
   "description": "description of the theme",
   "version": "1.0.0",
   "authors": [
-    { "name": "7eahaus", "id": "322399383050256387" }
+    { 
+      "name": "7eahaus", 
+      "id": "322399383050256387" 
+    }
   ],
   "semanticColors": {
     "ANDROID_NAVIGATION_SCRIM_BACKGROUND": ["#a6e3a14d"],
